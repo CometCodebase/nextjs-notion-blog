@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'nicedays',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  // twitter: 'transitive_bs',
   github: 'https://github.com/nicedays233',
   linkedin: 'https://www.linkedin.com/in/yanwen-wu-a05a8225a/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
